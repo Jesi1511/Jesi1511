@@ -1,5 +1,5 @@
 Data Scientist | Machine Learning Engineer | Python Developer | Data Analyst | Business Analyst 
-📱 | ✉️ E-mail:jesikutty1511@gmail.com  | 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jesima-parvin/) | 🐙 GitHub: github.com/Jesi1511/
+📱 | ✉️ E-mail:jesikutty1511@gmail.com  | 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jesima-parvin/) | 🐙 GitHub: [github.com/Jesi1511/](https://github.com/Jesi1511)
 
 📍 Location: Coimbatore, Tamilnadu, India
 ----------------------------------------------------------------------------------

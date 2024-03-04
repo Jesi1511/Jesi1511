@@ -3,7 +3,7 @@ Data Scientist | Machine Learning Engineer | Python Developer | Data Analyst | B
 
 📍 Location: Coimbatore, Tamilnadu, India
 ----------------------------------------------------------------------------------
-**Skills**
+Skills
 
 
 Programming Languages: Python, SQL
@@ -12,17 +12,16 @@ Tools & Frameworks: Git, AWS (Lambda, S3, EC2), Streamlit, Django, Powerpoint, E
 Data Science / Machine Learning: Scikit-Learn, PyTorch, Pandas, NumPy, SciPy, NLTK, PySpark,NLP,LLM,Langchain
 Data Visualization: Power BI, Tableau, Python-Plotly, Seaborn, Matplotlib
 
-**Certifications and Courses
-**
+Certifications and Courses
+
 
 Advanced Programming Professional in Master Data Science - IIT, Madras 
 Python - Guvi
 Power bi - Guvi
 Tableau -Guvi
 
-
-**Project Experiences
-**(Includes Capstone Projects ,Educational Projects )
+Project Experiences
+(Includes Capstone Projects ,Educational Projects )
 
 Industrial Copper Modeling
 

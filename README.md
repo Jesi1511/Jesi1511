@@ -3,7 +3,7 @@ Data Scientist | Machine Learning Engineer | Python Developer | Data Analyst | B
 
 📍 Location: Coimbatore, Tamilnadu, India
 ----------------------------------------------------------------------------------
-Skills
+**Skills**
 Programming Languages: Python, SQL
 Databases: MySQL, MongoDB
 Tools & Frameworks: Git, AWS (Lambda, S3, EC2), Streamlit, Django, Powerpoint, Excel, Word
